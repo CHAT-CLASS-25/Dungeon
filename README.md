@@ -16,3 +16,10 @@ Monster Ideas
 - Centaur
 - Ghosts
 - Goblins
+---
+Object Ideas
+- Walls
+- Ground
+- Doors
+- Buttons
+- Monsters
